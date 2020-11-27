@@ -1,4 +1,8 @@
 {
-    "python.pythonPath": "env\\Scripts\\python.exe",
-    "python.linting.pylintPath": "env\\Scripts\\pylint.exe"
+    //"python.linting.pylintPath": "D:\\Project\\Production\\DockerDjangoML\\env\\Scripts\\pylint.exe",
+    "python.linting.pylintPath" : "D:\\Project\\Production\\DockerDjangoML\\env\\Lib\\site-packages\\pylint",
+    "python.pythonPath": "D:\\Project\\Production\\DockerDjangoML\\env\\Scripts\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+        
 }
