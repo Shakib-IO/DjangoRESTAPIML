@@ -1,9 +1,8 @@
 from django.apps import AppConfig
 import os
 import sys
-import pandas as pd
 from joblib import load
-
+import pandas as pd 
 class PredictionConfig(AppConfig):
     name = 'Prediction'
 
